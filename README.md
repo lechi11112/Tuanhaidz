@@ -1,7 +1,7 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐏𝐡𝐮𝐧𝐠 𝐓𝐮𝐚𝐧 𝐇𝐚𝐢 <width="35"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.imgur.com/0Qfs7wa.mp4" />
+    <img align="center" alt="PNG" src="https://i.imgur.com/mPgzQBv.jpeg" />
 </p> 
 <h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
 
