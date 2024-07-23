@@ -1,7 +1,7 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐏𝐡𝐮𝐧𝐠 𝐓𝐮𝐚𝐧 𝐇𝐚𝐢 <width="35"></h1> 
+<h1> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐋𝐞̂ 𝐂𝐡𝐢́ <width="35"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.imgur.com/mPgzQBv.jpeg" />
+    <img align="center" alt="PNG" src="https://i.imgur.com/I4tplYw.jpeg" />
 </p> 
 <h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
 
@@ -49,11 +49,11 @@
 - 🍁 **URL (or IP)**: Dán link vừa copy bên **[Replit](https://replit.com/)** 
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
-# 🤝🏻 Connect With 𝗛𝗮𝗶 𝗵𝗮𝗿𝗶𝗻
+# 🤝🏻 Connect With 𝐋𝐞̂ 𝐂𝐡𝐢́
 <p align="center"> 
-&nbsp; <a href="https://www.instagram.com/pth_tth2506/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@pth.mika" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/Tuanhaidz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/HARIN.MIKA1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:phungtuanhai03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://www.instagram.com/lechii.08/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
+&nbsp; <a href="https://www.tiktok.com/@lechii.08" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/lechi11112" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/lechi08" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:lexuanchi54@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
